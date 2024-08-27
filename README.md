@@ -1,0 +1,2 @@
+# scrum
+Análise Critica Scrum
